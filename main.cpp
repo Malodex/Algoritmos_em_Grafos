@@ -2,7 +2,7 @@
 
 int main()
 {
-   /* FILE *arq;
+    FILE *arq;
     arq = fopen("dados2.txt", "r");
     if (arq == NULL)
     {
@@ -18,7 +18,7 @@ int main()
     Grafos G(V);
     G.ler_arquivo(arq);
     G.print();
-    G.bfs(0);*/
+    G.bfs(0);
 
 
     int acessos[100];
